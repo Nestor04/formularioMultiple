@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.form-container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.form-page {
+    display: none;
+}
+
+.navigation {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#page5 pre {
+    background: #f4f4f4;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
